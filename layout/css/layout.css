@@ -123,10 +123,10 @@ section.hero > h2{
   margin-top: 3rem;
 }
 
-/*section.hero > h2::first-letter {
+section.hero > h2::first-letter {
   font-size: 4rem;
   padding: .2rem;
-}*/
+}
 
 .hero-content {
   position: relative;
